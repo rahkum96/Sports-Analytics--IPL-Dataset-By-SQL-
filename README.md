@@ -37,7 +37,7 @@ INTO TABLE deliveries_all
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n' IGNORE 1 ROWS;
 
-## Results got by SQL Queries:
+## Analysis result by SQL Queries:
 ### Q-1: As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 1. Mumbai Indians is the most successful team in IPL and has won the most number of toss.
 2. There were more matches won by chasing the total(419 matches) than defending(350 matches).
