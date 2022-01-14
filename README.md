@@ -1,7 +1,7 @@
 # Sports-Analytics--IPL-Dataset-By-SQL-
 Analysis on past years' IPL data with help of complex SQL queries, visualized the outcome in tableau and drawn meaningful conclusion on outcome.
 
-## Perform Data Analysis on 'Indian Premiere League' by using SQL 
+## Perform Data Analysis on 'Indian Premiere League' by using SQL
 ## Objective:: 
 - Perform ‘Data Analysis by SQL’ on dataset ‘Indian Premier League’
 - As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
